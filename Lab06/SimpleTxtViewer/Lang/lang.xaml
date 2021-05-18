@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="rk_mainWindowTitle">Viewer</v:String>
+    <v:String x:Key="rk_mainMenuFile">File</v:String>
+    <v:String x:Key="rk_mainMenuFileOpen">Open...</v:String>
+    <v:String x:Key="rk_mainMenuFileClear">Clear</v:String>
+    <v:String x:Key="rk_mainMenuFileExit">Exit</v:String>
+    <v:String x:Key="rk_mainMenuEdit">Edit</v:String>
+    <v:String x:Key="rk_mainMenuEditLanguages">Interface languages</v:String>
+</ResourceDictionary>

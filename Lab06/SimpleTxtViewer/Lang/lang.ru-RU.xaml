@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="rk_mainWindowTitle">Просмотрщик</v:String>
+    <v:String x:Key="rk_mainMenuFile">Файл</v:String>
+    <v:String x:Key="rk_mainMenuFileOpen">Открыть...</v:String>
+    <v:String x:Key="rk_mainMenuFileExit">Выйти</v:String>
+
+    <v:String x:Key="rk_mainMenuEdit">Правка</v:String>
+    <v:String x:Key="rk_mainMenuEditLanguages">Языки интерфейса</v:String>
+</ResourceDictionary>
